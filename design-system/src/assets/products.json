@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "brand": "Cadeira",
+        "name": "Ipê",
+        "priceNormal": "199",
+        "priceDescount": "99",
+        "image": "https://images.yampi.me/assets/stores/essenciamoveis/uploads/images/poltrona-eames-lcw-preto-opcao-de-madeira-62b0db1b6ef04-medium.jpg"
+    },
+    {
+        "id": "2",
+        "brand": "Cadeira",
+        "name": "Cerejeira",
+        "priceNormal": "299",
+        "priceDescount": "159",
+        "image": "https://casa.abril.com.br/wp-content/uploads/2022/07/7-25-cadeiras-que-todo-amante-de-decoracao-tem-que-conhecer.jpeg?quality=95&strip=info&w=1000"
+    },
+    {
+        "id": "3",
+        "brand": "Cadeira",
+        "name": "Cedro",
+        "priceNormal": "179",
+        "priceDescount": "109",
+        "image": "https://ae01.alicdn.com/kf/Sfe69de8a69f64a8a80987c2924b47e98I/Computador-n-rdico-cadeiras-de-escrit-rio-rattan-poltrona-de-madeira-maci-a-mobili-rio-de.jpg_Q90.jpg_.webp"
+    }
+]
